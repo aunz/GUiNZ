@@ -2,7 +2,7 @@ var __wpo = {
   "assets": {
     "main": [
       "/GUiNZ/client_582ecc2.js",
-      "/GUiNZ/vendor_b78a639.js",
+      "/GUiNZ/vendor_961f231.js",
       "/GUiNZ/styles_f08bf9c.css",
       "/GUiNZ/"
     ],
@@ -12,13 +12,13 @@ var __wpo = {
   "externals": [],
   "hashesMap": {
     "d40526ff8f0f975022c3bf0102b1dfc00840eab6": "/GUiNZ/client_582ecc2.js",
-    "967ffe85aa78b7dd6813eb945255e9f6f930d1eb": "/GUiNZ/vendor_b78a639.js",
+    "73e17ac3ae760c5bd405567f0f6fb5edfbc516bc": "/GUiNZ/vendor_961f231.js",
     "2f67c059049654818a5e0a6232db4ac2e510d03c": "/GUiNZ/styles_f08bf9c.css",
-    "cd267a37e5ece363712c68ea5fd0f63afecdb581": "/GUiNZ/"
+    "0243ab1c03727974969bdcc8e314dc8de0e280ab": "/GUiNZ/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2017-8-4 14:04:53",
+  "version": "2017-8-4 14:11:41",
   "name": "webpack-offline",
   "pluginVersion": "4.8.3",
   "relativePaths": false
@@ -83,7 +83,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/GUiNZ/build";
+/******/ 	__webpack_require__.p = "/GUiNZ";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = "rEv2");
