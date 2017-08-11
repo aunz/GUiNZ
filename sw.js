@@ -1,9 +1,11 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/GUiNZ/client_582ecc2.js",
-      "/GUiNZ/vendor_961f231.js",
-      "/GUiNZ/styles_f08bf9c.css",
+      "/GUiNZ/0_2253ac1.js",
+      "/GUiNZ/1_c83d492.js",
+      "/GUiNZ/client_ef18f2c.js",
+      "/GUiNZ/vendor_b104b2b.js",
+      "/GUiNZ/styles_7cad5c9.css",
       "/GUiNZ/"
     ],
     "additional": [],
@@ -11,14 +13,16 @@ var __wpo = {
   },
   "externals": [],
   "hashesMap": {
-    "d40526ff8f0f975022c3bf0102b1dfc00840eab6": "/GUiNZ/client_582ecc2.js",
-    "73e17ac3ae760c5bd405567f0f6fb5edfbc516bc": "/GUiNZ/vendor_961f231.js",
-    "2f67c059049654818a5e0a6232db4ac2e510d03c": "/GUiNZ/styles_f08bf9c.css",
-    "0243ab1c03727974969bdcc8e314dc8de0e280ab": "/GUiNZ/"
+    "4339d0d1eeaaf31884ea33d3f6e6eba071f6df9b": "/GUiNZ/0_2253ac1.js",
+    "95b14093b35f216e643eef733b68b4d033c9f7dc": "/GUiNZ/1_c83d492.js",
+    "1f455815fb15bc8216b506eaca00147d04b649e6": "/GUiNZ/client_ef18f2c.js",
+    "218d0d9454d2bad51684324258706ec85804b498": "/GUiNZ/vendor_b104b2b.js",
+    "6214c087b18c2fb3481e533481096398349e7f93": "/GUiNZ/styles_7cad5c9.css",
+    "f96b20e1cf4f3492f701c89d4e5d438c8783568d": "/GUiNZ/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2017-8-4 14:11:41",
+  "version": "2017-8-11 17:53:29",
   "name": "webpack-offline",
   "pluginVersion": "4.8.3",
   "relativePaths": false
