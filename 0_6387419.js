@@ -1,1 +1,0 @@
-webpackJsonp([0],{266:function(t,b,e){t.exports=e.p+"bigText_b1b0ec3.txt"}});
